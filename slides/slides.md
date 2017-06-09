@@ -112,6 +112,19 @@ James 4:12 (NIV)
 </div>
 
 ---
+Who are you to pass **judgment** <br/>
+on the **servant** of another?
+
+It is before his own **master* that he stands or falls.
+
+And he will be **upheld**, <br/>
+for the Lord is **able** to make him stand.
+
+<div class="ref">
+Romans 14:4 (ESV)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
