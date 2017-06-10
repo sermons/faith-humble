@@ -115,7 +115,7 @@ James 4:12 (NIV)
 Who are you to pass **judgment** <br/>
 on the **servant** of another?
 
-It is before his own **master* that he stands or falls.
+It is before his own **master** that he stands or falls.
 
 And he will be **upheld**, <br/>
 for the Lord is **able** to make him stand.
