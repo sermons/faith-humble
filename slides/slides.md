@@ -87,11 +87,22 @@ James 4:15-16 (NIV) (p.4/4)
 Do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
-or **judges** them speaks against the law and judges it.
+or **judges** them speaks against the **law** and judges it.
 
 <div class="ref">
 James 4:11 (NIV)
 </div>
+
+>>>
++ *"slander"*, *"speak against*": speak evil of
++ *"judge"*: assess, sum up all known, and
+  + pass **verdict** on person as a whole
++ bad **person** vs. person who has done bad **things**
++ but they **already** are judged:
+  + by God's **law**
+  + and God's **grace**
++ **re-judging** &rArr; **disputing** God's assessment
+  + &rArr; judging God's **law**
 
 ---
 When you **judge** the law, you are not **keeping** it, <br/>
@@ -100,6 +111,9 @@ but sitting in judgment on it.
 <div class="ref">
 James 4:11 (NIV)
 </div>
+
+>>>
++ forget we **also** are under God's law
 
 ---
 There is only one **Lawgiver** and **Judge**, <br/>
