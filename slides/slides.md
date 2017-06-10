@@ -80,8 +80,8 @@ James 4:15-16 (NIV) (p.4/4)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" id="outline" -->
 ## Faith That Is Humble
 1. **One** <span class="ref">(v11-12)</span>
-2. **Two** <span class="ref">(v13-14)</span>
-3. **Three** <span class="ref">(v15-16)</span>
+2. **Two** <span class="ref">(v13,16)</span>
+3. **Three** <span class="ref">(v14-15)</span>
 
 ---
 Do not **slander** one another.
@@ -141,14 +141,11 @@ James 4:13 (NIV)
 </div>
 
 ---
-Why, you do not even know <br/>
-what will happen **tomorrow**.
-
-What is your **life**? You are a **mist** that appears <br/>
-for a little while and then **vanishes**.
+As it is, you **boast** in your arrogant **schemes**. <br/>
+All such boasting is **evil**.
 
 <div class="ref">
-James 4:14 (NIV)
+James 4:16 (NIV)
 </div>
 
 ---
@@ -160,19 +157,19 @@ James 4:14 (NIV)
 ## Outline 3
 
 ---
+What is your **life**? You are a **mist** that appears <br/>
+for a little while and then **vanishes**.
+
+<div class="ref">
+James 4:14 (NIV)
+</div>
+
+---
 Instead, you ought to say, “If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
 <div class="ref">
 James 4:15 (NIV)
-</div>
-
----
-As it is, you **boast** in your arrogant **schemes**. <br/>
-All such boasting is **evil**.
-
-<div class="ref">
-James 4:16 (NIV)
 </div>
 
 ---
