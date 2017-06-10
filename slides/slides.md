@@ -113,7 +113,9 @@ James 4:11 (NIV)
 </div>
 
 >>>
++ not a **doer** but a **judge**
 + forget we **also** are under God's law
++ work on **own** obedience first
 
 ---
 There is only one **Lawgiver** and **Judge**, <br/>
@@ -152,6 +154,22 @@ spend a **year** there, carry on **business** and make **money**.”
 
 <div class="ref">
 James 4:13 (NIV)
+</div>
+
+>>>
++ not general **aspirations** or even **plans**
++ but specific **predictions**: control future
++ "may I ask for a sandwich, please?"
+  + vs. "you will go to kitchen, make sandwich, bring to me"
++ **petitioning** God vs **demanding** of Him
+
+---
+Do not be **anxious** about anything, but in **every** situation, <br/>
+by **prayer** and **petition**, with **thanksgiving**, <br/>
+present your **requests** to God.
+
+<div class="ref">
+Philippians 4:6 (NIV)
 </div>
 
 ---
