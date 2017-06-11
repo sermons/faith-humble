@@ -195,7 +195,7 @@ James 4:16 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Are my **plans** for the future
+# Are my **plans** <br/> for the future
 # **predictions**, or **petitions**?
 
 ---
@@ -215,14 +215,14 @@ James 4:14 (NIV)
 
 ---
 <span class="ref">27</span>
-All creatures **look to you**
+All creatures **look to you** <br/>
 to give them their **food** at the proper time.
 
 <span class="ref">28</span>
-When you **give** it to them,
+When you **give** it to them, <br/>
 they **gather** it up;
 
-when you **open your hand**,
+when you **open your hand**, <br/>
 they are **satisfied with good** things.
 
 <div class="ref">
@@ -231,14 +231,14 @@ Psalm 104:27-28 (NIV) (p.1/2)
 
 ---
 <span class="ref">29</span>
-When you **hide your face**,
-they are **terrified**;
-when you take away their **breath**,
+When you **hide your face**, <br/>
+they are **terrified**; <br/>
+when you take away their **breath**, <br/>
 they die and return to the **dust**.
 
 <span class="ref">30</span>
-When you send your **Spirit**,
-they are **created**,
+When you send your **Spirit**, <br/>
+they are **created**, <br/>
 and you **renew** the face of the ground.
 
 <div class="ref">
@@ -255,7 +255,7 @@ James 4:15 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I acknowledge God's **grace** in each **breath** I take? 
+# Do I acknowledge  <br/> God's **grace** in  <br/> each **breath** of life? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
