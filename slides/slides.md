@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **judge** fellow Christians?
+# Do I want to take **control** of my life? 
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -79,9 +79,9 @@ James 4:15-16 (NIV) (p.4/4)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" id="outline" -->
 ## Faith That Is Humble
-1. Control over **Fellow Believers** <span class="ref">(v11-12)</span>
-2. Control over the **Future** <span class="ref">(v13,16)</span>
-3. Control over our **Life** <span class="ref">(v14-15)</span>
+1. Controlling **Fellow Believers** <span class="ref">(v11-12)</span>
+2. Controlling the **Future** <span class="ref">(v13,16)</span>
+3. Controlling my own **Life** <span class="ref">(v14-15)</span>
 
 ---
 Do not **slander** one another.
@@ -130,6 +130,7 @@ James 4:12 (NIV)
 >>>
 + "*lawgiver*": auth to **set** law
 + "*judge*": auth to **decide** final assessment of a person
++ *"neighbor"*: not just brother in Christ
 
 ---
 Who are you to pass **judgment** <br/>
@@ -146,11 +147,14 @@ Romans 14:4 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# How have I **judged** others? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
-## Outline 2
+## Faith That Is Humble
+1. Controlling Fellow Believers <span class="ref">(v11-12)</span>
+2. **Controlling the Future** <span class="ref">(v13,16)</span>
+3. Controlling my own Life <span class="ref">(v14-15)</span>
 
 ---
 “**Today** or tomorrow we will **go** to this or that city, <br/>
@@ -163,8 +167,9 @@ James 4:13 (NIV)
 >>>
 + not general **aspirations** or even **plans**
 + but specific **predictions**: control future
-+ "may I ask for a sandwich, please?"
-  + vs. "you will go to kitchen, make sandwich, bring to me"
++ believe edu &rArr; job &rArr; **respect**
++ mom: "**may I** ask for a sandwich, please?"
+  + vs. "**you will** go to kitchen, make sandwich, bring to me"
 + **petitioning** God vs **demanding** of Him
 
 ---
@@ -190,11 +195,15 @@ James 4:16 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Are my **plans** for the future
+# **predictions**, or **petitions**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
-## Outline 3
+## Faith That Is Humble
+1. Controlling Fellow Believers <span class="ref">(v11-12)</span>
+2. Controlling the Future <span class="ref">(v13,16)</span>
+3. **Controlling my own Life** <span class="ref">(v14-15)</span>
 
 ---
 What is your **life**? You are a **mist** that appears <br/>
@@ -202,6 +211,38 @@ for a little while and then **vanishes**.
 
 <div class="ref">
 James 4:14 (NIV)
+</div>
+
+---
+<span class="ref">27</span>
+All creatures **look to you**
+to give them their **food** at the proper time.
+
+<span class="ref">28</span>
+When you **give** it to them,
+they **gather** it up;
+
+when you **open your hand**,
+they are **satisfied with good** things.
+
+<div class="ref">
+Psalm 104:27-28 (NIV) (p.1/2)
+</div>
+
+---
+<span class="ref">29</span>
+When you **hide your face**,
+they are **terrified**;
+when you take away their **breath**,
+they die and return to the **dust**.
+
+<span class="ref">30</span>
+When you send your **Spirit**,
+they are **created**,
+and you **renew** the face of the ground.
+
+<div class="ref">
+Psalm 104:29-30 (NIV) (p.2/2)
 </div>
 
 ---
@@ -214,7 +255,7 @@ James 4:15 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I acknowledge God's **grace** in each **breath** I take? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
