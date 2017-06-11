@@ -259,7 +259,8 @@ James 4:15 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
-**Humble** yourselves before the Lord, and he will **lift** you up.
+**Humble** yourselves before the Lord, <br/>
+and he will **lift** you up.
 
 <div class="ref">
 James 4:10 (NIV)
