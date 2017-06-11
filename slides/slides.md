@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I want to take **control** of my life? 
+# Do I want to take **control** of my life?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -84,6 +84,7 @@ James 4:15-16 (NIV) (p.4/4)
 3. Controlling my own **Life** <span class="ref">(v14-15)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 Do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
@@ -105,6 +106,7 @@ James 4:11 (NIV)
   + &rArr; judging God's **law**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 When you **judge** the law, you are not **keeping** it, <br/>
 but sitting in judgment on it.
 
@@ -118,6 +120,7 @@ James 4:11 (NIV)
 + work on **own** obedience first
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 There is only one **Lawgiver** and **Judge**, <br/>
 the one who is able to **save** and **destroy**.
 
@@ -133,6 +136,7 @@ James 4:12 (NIV)
 + *"neighbor"*: not just brother in Christ
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 Who are you to pass **judgment** <br/>
 on the **servant** of another?
 
@@ -147,7 +151,7 @@ Romans 14:4 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I **judged** others? 
+# How have I **judged** others?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
@@ -157,6 +161,7 @@ Romans 14:4 (ESV)
 3. Controlling my own Life <span class="ref">(v14-15)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 “**Today** or tomorrow we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** and make **money**.”
 
@@ -173,6 +178,7 @@ James 4:13 (NIV)
 + **petitioning** God vs **demanding** of Him
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 Do not be **anxious** about anything, but in **every** situation, <br/>
 by **prayer** and **petition**, with **thanksgiving**, <br/>
 present your **requests** to God.
@@ -182,6 +188,7 @@ Philippians 4:6 (NIV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 As it is, you **boast** in your **arrogant** schemes. <br/>
 All such boasting is **evil**.
 
@@ -206,6 +213,7 @@ James 4:16 (NIV)
 3. **Controlling my own Life** <span class="ref">(v14-15)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 What is your **life**? You are a **mist** that appears <br/>
 for a little while and then **vanishes**.
 
@@ -214,6 +222,7 @@ James 4:14 (NIV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
 <span class="ref">27</span>
 All creatures **look to you** <br/>
 to give them their **food** at the proper time.
@@ -230,6 +239,7 @@ Psalm 104:27-28 (NIV) (p.1/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
 <span class="ref">29</span>
 When you **hide your face**, <br/>
 they are **terrified**; <br/>
@@ -246,6 +256,7 @@ Psalm 104:29-30 (NIV) (p.2/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 Instead, you ought to say, “If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
@@ -255,7 +266,7 @@ James 4:15 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I acknowledge  <br/> God's **grace** in  <br/> each **breath** of life? 
+# Do I acknowledge  <br/> God's **grace** in  <br/> each **breath** of life?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
