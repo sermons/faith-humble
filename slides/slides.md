@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Do I **judge** fellow Christians?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -79,9 +79,9 @@ James 4:15-16 (NIV) (p.4/4)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" id="outline" -->
 ## Faith That Is Humble
-1. **One** <span class="ref">(v11-12)</span>
-2. **Two** <span class="ref">(v13,16)</span>
-3. **Three** <span class="ref">(v14-15)</span>
+1. Control over **Fellow Believers** <span class="ref">(v11-12)</span>
+2. Control over the **Future** <span class="ref">(v13,16)</span>
+3. Control over our **Life** <span class="ref">(v14-15)</span>
 
 ---
 Do not **slander** one another.
@@ -94,8 +94,8 @@ James 4:11 (NIV)
 </div>
 
 >>>
-+ *"slander"*, *"speak against*": speak evil of
-+ *"judge"*: assess, sum up all known, and
++ *"slander"*, *"speak against*" (καταλαλεῖτε): speak evil of
++ *"judge"* (κρίνει): assess, sum up all known, and
   + pass **verdict** on person as a whole
 + bad **person** vs. person who has done bad **things**
 + but they **already** are judged:
@@ -126,6 +126,10 @@ But you -- **who are you** to judge your neighbor?
 <div class="ref">
 James 4:12 (NIV)
 </div>
+
+>>>
++ "*lawgiver*": auth to **set** law
++ "*judge*": auth to **decide** final assessment of a person
 
 ---
 Who are you to pass **judgment** <br/>
@@ -173,12 +177,16 @@ Philippians 4:6 (NIV)
 </div>
 
 ---
-As it is, you **boast** in your arrogant **schemes**. <br/>
+As it is, you **boast** in your **arrogant** schemes. <br/>
 All such boasting is **evil**.
 
 <div class="ref">
 James 4:16 (NIV)
 </div>
+
+>>>
++ *"arrogant schemes"* (ἀλαζονείαις): charlatan, snake-oil,
+  wandering salesman with empty boasts
 
 ---
 <!-- .slide: data-background="white" -->
