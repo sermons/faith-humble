@@ -22,18 +22,18 @@
 + Is **Humble** <span class="ref">(4:11-16)</span>
 
 ---
-<span class="ref">11</span>
-Brothers and sisters, do not **slander** one another.
+[11](# "ref")
+Brothers and sisters, <br>
+do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
-or **judges** them speaks against the **law** and judges it.
+or **judges** them <br>
+speaks against the **law** and judges it.
 
 When you **judge** the law, you are not **keeping** it, <br/>
 but sitting in judgment on it.
 
-<div class="ref">
-James 4:11 (NIV) (p.1/4)
-</div>
+[James 4:11 (NIV) (p.1/4)](# "ref")
 
 ---
 <span class="ref">12</span>
