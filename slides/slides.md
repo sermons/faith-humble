@@ -143,7 +143,8 @@ James 4:12 (NIV)
 Who are you to pass **judgment** <br/>
 on the **servant** of another?
 
-It is before his own **master** that he stands or falls.
+It is before his own **master** <br>
+that he stands or falls.
 
 And he will be **upheld**, <br/>
 for the Lord is **able** to make him stand.
@@ -167,7 +168,8 @@ Romans 14:4 (ESV)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 “**Today** or tomorrow <br>
 we will **go** to this or that city, <br/>
-spend a **year** there, carry on **business** and make **money**.”
+spend a **year** there, carry on **business** <br>
+and make **money**.”
 
 <div class="ref">
 James 4:13 (NIV)
@@ -273,7 +275,7 @@ James 4:15 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I acknowledge  <br/> God's **grace** in  <br/> each **breath** of life?
+# Do I acknowledge <br/> God's **grace** <br/> in each **breath** <br> of life?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
