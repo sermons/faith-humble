@@ -49,7 +49,8 @@ James 4:12 (NIV) (p.2/4)
 ---
 <span class="ref">13</span>
 Now listen, you who say, <br/>
-“**Today** or tomorrow we will **go** to this or that city, <br/>
+“**Today** or tomorrow <br>
+we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** and make **money**.”
 
 <span class="ref">14</span>
@@ -65,7 +66,8 @@ James 4:13-14 (NIV) (p.3/4)
 
 ---
 <span class="ref">15</span>
-Instead, you ought to say, “If it is the **Lord’s will**, <br/>
+Instead, you ought to say, <br>
+“If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
 <span class="ref">16</span>
@@ -88,7 +90,8 @@ James 4:15-16 (NIV) (p.4/4)
 Do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
-or **judges** them speaks against the **law** and judges it.
+or **judges** them <br>
+speaks against the **law** and judges it.
 
 <div class="ref">
 James 4:11 (NIV)
@@ -162,7 +165,8 @@ Romans 14:4 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
-“**Today** or tomorrow we will **go** to this or that city, <br/>
+“**Today** or tomorrow <br>
+we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** and make **money**.”
 
 <div class="ref">
@@ -179,7 +183,8 @@ James 4:13 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-Do not be **anxious** about anything, but in **every** situation, <br/>
+Do not be **anxious** about anything, <br>
+but in **every** situation, <br/>
 by **prayer** and **petition**, with **thanksgiving**, <br/>
 present your **requests** to God.
 
@@ -214,7 +219,8 @@ James 4:16 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
-What is your **life**? You are a **mist** that appears <br/>
+What is your **life**? <br>
+You are a **mist** that appears <br/>
 for a little while and then **vanishes**.
 
 <div class="ref">
@@ -257,7 +263,8 @@ Psalm 104:29-30 (NIV) (p.2/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
-Instead, you ought to say, “If it is the **Lord’s will**, <br/>
+Instead, you ought to say, <br>
+“If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
 <div class="ref">
