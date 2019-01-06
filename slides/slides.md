@@ -79,9 +79,9 @@ James 4:15-16 (NIV) (p.4/4)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" id="outline" -->
 ## Faith That Is Humble
-1. Controlling **Fellow Believers** <span class="ref">(v11-12)</span>
-2. Controlling the **Future** <span class="ref">(v13,16)</span>
-3. Controlling my own **Life** <span class="ref">(v14-15)</span>
+1. Control Over **Fellow Believers** <span class="ref">(v11-12)</span>
+2. Control Over the **Future** <span class="ref">(v13,16)</span>
+3. Control Over my own **Life** <span class="ref">(v14-15)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
@@ -156,9 +156,9 @@ Romans 14:4 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
 ## Faith That Is Humble
-1. Controlling Fellow Believers <span class="ref">(v11-12)</span>
-2. **Controlling the Future** <span class="ref">(v13,16)</span>
-3. Controlling my own Life <span class="ref">(v14-15)</span>
+1. Control Over Fellow Believers <span class="ref">(v11-12)</span>
+2. **Control Over the Future** <span class="ref">(v13,16)</span>
+3. Control Over my own Life <span class="ref">(v14-15)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
@@ -208,9 +208,9 @@ James 4:16 (NIV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
 ## Faith That Is Humble
-1. Controlling Fellow Believers <span class="ref">(v11-12)</span>
-2. Controlling the Future <span class="ref">(v13,16)</span>
-3. **Controlling my own Life** <span class="ref">(v14-15)</span>
+1. Control Over Fellow Believers <span class="ref">(v11-12)</span>
+2. Control Over the Future <span class="ref">(v13,16)</span>
+3. **Control Over my own Life** <span class="ref">(v14-15)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
