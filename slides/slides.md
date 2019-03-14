@@ -6,9 +6,6 @@
 <!-- .slide: data-background="white" -->
 # Do I want to take **control** of my life?
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
-
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 ## James: **Keep the Faith**
