@@ -7,16 +7,16 @@
 # Do I want to take **control** of my life?
 
 ---
-<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## James: **Keep the Faith**
-+ Stands the **Test** [(1:2-12)](# "ref")
-+ Demands a **Change** of Heart [(1:19-25)](# "ref")
-+ Loves **Impartially** [(2:5-9)](# "ref")
-+ **Acts** [(2:15-24)](# "ref")
-+ Tames the **Tongue** [(3:6-10)](# "ref")
-+ Demonstrates **Wisdom** [(3:13-18)](# "ref")
-+ **Mourns** Sin [(4:4-10)](# "ref")
-+ Is **Humble** [(4:11-16)](# "ref")
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> id="review" -->
+## [James:](# "ref") Keep the **Faith**
+
+|   |   |   |
+|---|---|---|
+| [1:](# "ref") | Stands the *Test* | *Change*&nbsp;of&nbsp;Heart |
+| [2:](# "ref") | Loves *Impartially* | *Acts* |
+| [3:](# "ref") | Tames the *Tongue* | Shows *Wisdom* |
+| [4:](# "ref") | *Mourns* Sin | Is **Humble** |
+| [5:](# "ref") | Looks to Christ's *Return* | *Prays* |
 
 ---
 [11](# "ref")
