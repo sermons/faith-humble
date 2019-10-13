@@ -12,13 +12,13 @@
 
 |   |   |   |
 |---|---|---|
-| [1:](# "ref") | Stands the *Test* | *Change*&nbsp;of&nbsp;Heart |
+| [1:](# "ref") | Stands the *Test* | <em>Change</em>&nbsp;of&nbsp;Heart |
 | [2:](# "ref") | Loves *Impartially* | *Acts* |
 | [3:](# "ref") | Tames the *Tongue* | Shows *Wisdom* |
 | [4:](# "ref") | *Mourns* Sin | Is **Humble** |
 | [5:](# "ref") | Looks to Christ's *Return* | *Prays* |
 
----
+******
 [11](# "ref")
 Brothers and sisters, <br>
 do not **slander** one another.
@@ -30,25 +30,23 @@ speaks against the **law** and judges it.
 When you **judge** the law, you are not **keeping** it, <br/>
 but sitting in judgment on it.
 
-[James 4:11 (NIV) (p.1/4)](# "ref")
+[James 4:11-16 (NIV) (p.1/4)](# "ref")
 
----
+******
 [12](# "ref")
 There is only one **Lawgiver** and **Judge**, <br/>
 the one who is able to **save** and **destroy**.
 
 But you -- **who are you** to judge your neighbor?
 
-<div class="ref">
-James 4:12 (NIV) (p.2/4)
-</div>
+[James 4:11-16 (NIV) (p.2/4)](# "ref")
 
----
+******
 [13](# "ref")
-Now listen, you who say, <br/>
-“**Today** or tomorrow <br>
+Now listen, you who say, “**Today** or tomorrow <br>
 we will **go** to this or that city, <br/>
-spend a **year** there, carry on **business** and make **money**.”
+spend a **year** there, <br/>
+carry on **business** and make **money**.”
 
 [14](# "ref")
 Why, you do not even know <br/>
@@ -57,11 +55,9 @@ what will happen **tomorrow**.
 What is your **life**? You are a **mist** that appears <br/>
 for a little while and then **vanishes**.
 
-<div class="ref">
-James 4:13-14 (NIV) (p.3/4)
-</div>
+[James 4:11-16 (NIV) (p.3/4)](# "ref")
 
----
+******
 [15](# "ref")
 Instead, you ought to say, <br>
 “If it is the **Lord’s will**, <br/>
@@ -71,9 +67,7 @@ we will **live** and **do** this or that.”
 As it is, you **boast** in your arrogant **schemes**. <br/>
 All such boasting is **evil**.
 
-<div class="ref">
-James 4:15-16 (NIV) (p.4/4)
-</div>
+[James 4:11-16 (NIV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> class="outline" id="outline" -->
@@ -90,9 +84,7 @@ Anyone who **speaks against** a brother or sister <br/>
 or **judges** them <br>
 speaks against the **law** and judges it.
 
-<div class="ref">
-James 4:11 (NIV)
-</div>
+[James 4:11 (NIV)](# "ref")
 
 >>>
 + *"slander"*, *"speak against*" (καταλαλεῖτε): speak evil of
@@ -110,9 +102,7 @@ James 4:11 (NIV)
 When you **judge** the law, you are not **keeping** it, <br/>
 but sitting in judgment on it.
 
-<div class="ref">
-James 4:11 (NIV)
-</div>
+[James 4:11 (NIV)](# "ref")
 
 >>>
 + not a **doer** but a **judge**
@@ -126,9 +116,7 @@ the one who is able to **save** and **destroy**.
 
 But you -- **who are you** to judge your neighbor?
 
-<div class="ref">
-James 4:12 (NIV)
-</div>
+[James 4:12 (NIV)](# "ref")
 
 >>>
 + "*lawgiver*": auth to **set** law
@@ -146,9 +134,7 @@ that he stands or falls.
 And he will be **upheld**, <br/>
 for the Lord is **able** to make him stand.
 
-<div class="ref">
-Romans 14:4 (ESV)
-</div>
+[Romans 14:4 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -168,9 +154,7 @@ we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** <br>
 and make **money**.”
 
-<div class="ref">
-James 4:13 (NIV)
-</div>
+[James 4:13 (NIV)](# "ref")
 
 >>>
 + not general **aspirations** or even **plans**
@@ -187,18 +171,14 @@ but in **every** situation, <br/>
 by **prayer** and **petition**, with **thanksgiving**, <br/>
 present your **requests** to God.
 
-<div class="ref">
-Philippians 4:6 (NIV)
-</div>
+[Philippians 4:6 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
 As it is, you **boast** in your **arrogant** schemes. <br/>
 All such boasting is **evil**.
 
-<div class="ref">
-James 4:16 (NIV)
-</div>
+[James 4:16 (NIV)](# "ref")
 
 >>>
 + *"arrogant schemes"* (ἀλαζονείαις): charlatan, snake-oil,
@@ -222,9 +202,7 @@ What is your **life**? <br>
 You are a **mist** that appears <br/>
 for a little while and then **vanishes**.
 
-<div class="ref">
-James 4:14 (NIV)
-</div>
+[James 4:14 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
@@ -239,9 +217,7 @@ they **gather** it up;
 when you **open your hand**, <br/>
 they are **satisfied with good** things.
 
-<div class="ref">
-Psalm 104:27-28 (NIV) (p.1/2)
-</div>
+[Psalm 104:27-30 (NIV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
@@ -256,9 +232,7 @@ When you send your **Spirit**, <br/>
 they are **created**, <br/>
 and you **renew** the face of the ground.
 
-<div class="ref">
-Psalm 104:29-30 (NIV) (p.2/2)
-</div>
+[Psalm 104:27-30 (NIV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
@@ -266,9 +240,7 @@ Instead, you ought to say, <br>
 “If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
-<div class="ref">
-James 4:15 (NIV)
-</div>
+[James 4:15 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -279,9 +251,7 @@ James 4:15 (NIV)
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
 
-<div class="ref">
-James 4:10 (NIV)
-</div>
+[James 4:10 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> class="empty" -->
