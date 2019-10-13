@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> id="title" -->
 # Faith That Is Humble
 ## James 4:11-16
 
@@ -7,16 +7,16 @@
 # Do I want to take **control** of my life?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
-+ **Acts** <span class="ref">(2:15-24)</span>
-+ Tames the **Tongue** <span class="ref">(3:6-10)</span>
-+ Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
-+ **Mourns** Sin <span class="ref">(4:4-10)</span>
-+ Is **Humble** <span class="ref">(4:11-16)</span>
++ Stands the **Test** [(1:2-12)](# "ref")
++ Demands a **Change** of Heart [(1:19-25)](# "ref")
++ Loves **Impartially** [(2:5-9)](# "ref")
++ **Acts** [(2:15-24)](# "ref")
++ Tames the **Tongue** [(3:6-10)](# "ref")
++ Demonstrates **Wisdom** [(3:13-18)](# "ref")
++ **Mourns** Sin [(4:4-10)](# "ref")
++ Is **Humble** [(4:11-16)](# "ref")
 
 ---
 [11](# "ref")
@@ -33,7 +33,7 @@ but sitting in judgment on it.
 [James 4:11 (NIV) (p.1/4)](# "ref")
 
 ---
-<span class="ref">12</span>
+[12](# "ref")
 There is only one **Lawgiver** and **Judge**, <br/>
 the one who is able to **save** and **destroy**.
 
@@ -44,13 +44,13 @@ James 4:12 (NIV) (p.2/4)
 </div>
 
 ---
-<span class="ref">13</span>
+[13](# "ref")
 Now listen, you who say, <br/>
 “**Today** or tomorrow <br>
 we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** and make **money**.”
 
-<span class="ref">14</span>
+[14](# "ref")
 Why, you do not even know <br/>
 what will happen **tomorrow**.
 
@@ -62,12 +62,12 @@ James 4:13-14 (NIV) (p.3/4)
 </div>
 
 ---
-<span class="ref">15</span>
+[15](# "ref")
 Instead, you ought to say, <br>
 “If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
 
-<span class="ref">16</span>
+[16](# "ref")
 As it is, you **boast** in your arrogant **schemes**. <br/>
 All such boasting is **evil**.
 
@@ -76,14 +76,14 @@ James 4:15-16 (NIV) (p.4/4)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" id="outline" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> class="outline" id="outline" -->
 ## Faith That Is Humble
-1. Control Over **Others** <span class="ref">(v11-12)</span>
-2. Control Over the **Future** <span class="ref">(v13,16)</span>
-3. Control Over my own **Life** <span class="ref">(v14-15)</span>
+1. Control Over **Others** [(v11-12)](# "ref")
+2. Control Over the **Future** [(v13,16)](# "ref")
+3. Control Over my own **Life** [(v14-15)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
+<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
 Do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
@@ -106,7 +106,7 @@ James 4:11 (NIV)
   + &rArr; judging God's **law**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 When you **judge** the law, you are not **keeping** it, <br/>
 but sitting in judgment on it.
 
@@ -120,7 +120,7 @@ James 4:11 (NIV)
 + work on **own** obedience first
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 There is only one **Lawgiver** and **Judge**, <br/>
 the one who is able to **save** and **destroy**.
 
@@ -136,7 +136,7 @@ James 4:12 (NIV)
 + *"neighbor"*: not just brother in Christ
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Who are you to pass **judgment** <br/>
 on the **servant** of another?
 
@@ -155,14 +155,14 @@ Romans 14:4 (ESV)
 # How have I **judged** others?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
 ## Faith That Is Humble
-1. Control Over Others <span class="ref">(v11-12)</span>
-2. **Control Over the Future** <span class="ref">(v13,16)</span>
-3. Control Over my own Life <span class="ref">(v14-15)</span>
+1. Control Over Others [(v11-12)](# "ref")
+2. **Control Over the Future** [(v13,16)](# "ref")
+3. Control Over my own Life [(v14-15)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 “**Today** or tomorrow <br>
 we will **go** to this or that city, <br/>
 spend a **year** there, carry on **business** <br>
@@ -181,7 +181,7 @@ James 4:13 (NIV)
 + **petitioning** God vs **demanding** of Him
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 Do not be **anxious** about anything, <br>
 but in **every** situation, <br/>
 by **prayer** and **petition**, with **thanksgiving**, <br/>
@@ -192,7 +192,7 @@ Philippians 4:6 (NIV)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
+<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
 As it is, you **boast** in your **arrogant** schemes. <br/>
 All such boasting is **evil**.
 
@@ -210,14 +210,14 @@ James 4:16 (NIV)
 # **predictions**, or **petitions**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
 ## Faith That Is Humble
-1. Control Over Others <span class="ref">(v11-12)</span>
-2. Control Over the Future <span class="ref">(v13,16)</span>
-3. **Control Over my own Life** <span class="ref">(v14-15)</span>
+1. Control Over Others [(v11-12)](# "ref")
+2. Control Over the Future [(v13,16)](# "ref")
+3. **Control Over my own Life** [(v14-15)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 What is your **life**? <br>
 You are a **mist** that appears <br/>
 for a little while and then **vanishes**.
@@ -227,12 +227,12 @@ James 4:14 (NIV)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
-<span class="ref">27</span>
+<!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
+[27](# "ref")
 All creatures **look to you** <br/>
 to give them their **food** at the proper time.
 
-<span class="ref">28</span>
+[28](# "ref")
 When you **give** it to them, <br/>
 they **gather** it up;
 
@@ -244,14 +244,14 @@ Psalm 104:27-28 (NIV) (p.1/2)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
+[29](# "ref")
 When you **hide your face**, <br/>
 they are **terrified**; <br/>
 when you take away their **breath**, <br/>
 they die and return to the **dust**.
 
-<span class="ref">30</span>
+[30](# "ref")
 When you send your **Spirit**, <br/>
 they are **created**, <br/>
 and you **renew** the face of the ground.
@@ -261,7 +261,7 @@ Psalm 104:29-30 (NIV) (p.2/2)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 Instead, you ought to say, <br>
 “If it is the **Lord’s will**, <br/>
 we will **live** and **do** this or that.”
@@ -275,7 +275,7 @@ James 4:15 (NIV)
 # Do I acknowledge <br/> God's **grace** <br/> in each **breath** <br> of life?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
 
@@ -284,4 +284,4 @@ James 4:10 (NIV)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> class="empty" -->
